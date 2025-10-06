@@ -106,4 +106,4 @@ Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, and Vijay Sing
 
 6. Screenshot / Demo
 
-📸 Dashboard Preview:
+📸 Dashboard Preview:(https://github.com/Kunal-rajore/Computer-Accessories-Sales-Dashboard/blob/main/Snapshot%20of%20Computer%20Accessories%20Sales%20Dashboard.png)
